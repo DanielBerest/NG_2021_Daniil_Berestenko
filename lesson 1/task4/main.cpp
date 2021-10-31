@@ -13,7 +13,7 @@ int main()
    cout << "Write down the value of the number c:  ";
    cin >> c;
    D=b*b-4*a*c;
-        if (D=0){
+        if (D==0){
             cout << D;
         }
         if (D<0){

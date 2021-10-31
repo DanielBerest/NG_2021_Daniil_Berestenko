@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    int a;
-    int b;
+    int a=0;
+    int b=0;
     cout << "Enter starship weight: ";
     cin >> a;
     cout << "Enter number of years you are going to travel: ";

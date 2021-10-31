@@ -6,9 +6,9 @@ int main()
 {
     int a=50;
     int b=20;
-    a=a+b;
-    b=a-b;
-    a=a-b;
+    int c=30;
+    a=a-c;
+    b=a+c;
     cout << a << endl;
     cout << b << endl;
     return 0;
